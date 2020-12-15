@@ -1,0 +1,42 @@
+1 - results/exp1_plain_unet_batchnorm
+2 - thesis_results/plain_unet_2
+3 - thesis_results/plain_unet_augmentation
+4 - thesis_results/dense_unet
+5 - results/unet_wavelet_plain (may change) yes! results/unet_wavelet_final_50_epochs
+5 - thesis_results/unet_adabn
+6 - unet with BN without affine params - to be added
+7 - results/unet_eadan_bn
+8 - results/unet_eadan_in
+9 - results/plain_unet_dann_batchnorm
+10 - results/unet_dan_adabn
+11 - results/plain_mcd_batchnorm
+12 - results/mcd_w_adabn - done
+13 - results/unet_mcd_eadan_in
+14 - results/plain_swd_batchnorm
+15 - results/swd_w_adabn
+16 - results/unet_swd_eadan_in
+17 - results/exp4...
+18 - results/exp5...
+19 - results/exp6...
+20 - results/final_fda_batchnorm
+21 - results/exp9_unet_fda
+
+22 - results/unet_sobel_batchnorm 
+23 - results/unet_sobel_adabn
+24 - results/unet_sobel_adabn_20_batch
+25 - results/exp10_unet_sobel_2
+26 - results/unet_sobel_eadan_in
+27 - results/unet_sobel_eadan_in_50_epochs
+
+28 - results/unet_sobel_mcd_batchnorm
+29 - results/unet_sobel_mcd_adabn
+30 - results/unet_sobel_mcd_eadan_in
+31 - results/unet_sobel_mcd_eadan_in_10_batch
+
+32 - results/unet_sobel_swd_batchnorm
+33 - results/unet_sobel_swd_adabn
+34 - results/unet_sobel_swd_eadan_in - DO another one !
+35 - results/mcd_sobel_exp2
+
+
+
